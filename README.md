@@ -13,6 +13,7 @@ This project is a group assessment for the **ECM 1414 module** at the University
 - [Simulation Details](#simulation-details)
 - [Testing and Results](#testing-and-results)
 - [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -115,6 +116,11 @@ Charts and logs are generated to compare algorithm performance under various sce
 - Ensure your contributions align with the project's objectives.
 - Follow the University's academic integrity policies.
 - For any contributions, include detailed comments and disclosures in your code.
+
+---
+
+## License
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ---
 
